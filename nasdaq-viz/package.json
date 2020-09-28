@@ -1,0 +1,11 @@
+{
+  "name": "nasdaq-viz",
+  "version": "1.0.0",
+  "description": "## Description This project aims to visualize the top 100 companies on the nasdaq stock exchange within a bubble chart.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
